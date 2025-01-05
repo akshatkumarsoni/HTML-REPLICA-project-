@@ -1,0 +1,2 @@
+# PURE-HTML-REPLICA-project-scaLive
+ • Developed a scalable HTML website replicating a coaching center’s online platform, faithfully mirroring its structure  and functionality.  • Designed to showcase proficiency in HTML and web development, highlighting effective layout and content presen tation.  • Implemented interactive elements and navigation for seamless user experience, emphasizing usability and accessi bility principles.
